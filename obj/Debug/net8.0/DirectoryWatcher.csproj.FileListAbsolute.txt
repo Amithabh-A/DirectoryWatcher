@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/DirectoryWatcher/bin/Debug/net8.0/DirectoryWatcher
+/Users/amithabh_a/Projects/DirectoryWatcher/bin/Debug/net8.0/DirectoryWatcher.deps.json
+/Users/amithabh_a/Projects/DirectoryWatcher/bin/Debug/net8.0/DirectoryWatcher.runtimeconfig.json
+/Users/amithabh_a/Projects/DirectoryWatcher/bin/Debug/net8.0/DirectoryWatcher.dll
+/Users/amithabh_a/Projects/DirectoryWatcher/bin/Debug/net8.0/DirectoryWatcher.pdb
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.AssemblyInfo.cs
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.dll
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/refint/DirectoryWatcher.dll
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.pdb
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/DirectoryWatcher.genruntimeconfig.cache
+/Users/amithabh_a/Projects/DirectoryWatcher/obj/Debug/net8.0/ref/DirectoryWatcher.dll
